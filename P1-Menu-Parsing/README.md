@@ -27,7 +27,7 @@ to save the output a particular filename (example, `some_site.html` use :
 and your output will be saved into `some_site.html` in the directory you were in when you typed `wget`.
 
 
-##
+## Stuff we'll cover
 
 
 Stuff you'll learn to use:
